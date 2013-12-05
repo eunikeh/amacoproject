@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AMACO</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menus">
+        <item>Area Control</item>
+        <item>Text Ticker</item>
+        <item>Ramps</item>
+        <item>Area Overview</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="title_activity_area_control">AreaControlActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_text_ticker">Text Ticker</string>
+    <string name="title_activity_ramps">Ramps</string>
+    <string name="title_activity_area_overview">Area Overview</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
